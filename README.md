@@ -1,0 +1,2 @@
+# User-Authentication-for-a-REST-API
+The API will consume JSON requests and respond with JSON output. 1 Public API that can be accessed anonymously, 1 Public API that can be accessed by any authenticated user and 1 Private API which can only be accessed with a certain permissions of a certain user.a simple database design, API design and server architecture design. Created API in Node.JS, database in PostgreSQL
