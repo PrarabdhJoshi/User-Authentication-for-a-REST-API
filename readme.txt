@@ -2,7 +2,6 @@ The folder conatains all the dependencies in node_modules folder. These dependen
 
 
 There is a postgres script by the name of "tables.sql", purely for the purposes of the demo. 
-The actual schema file is by the name "actual.sql" with the actual data in the local machine. Since there was no server in use, only the demo file "tables.sql" could be produced. 
 
 All the route functions to query the database have been defined in the "queries.js" file in the root directory. The REST API has following methods:
 
